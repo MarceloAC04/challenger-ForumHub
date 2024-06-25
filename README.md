@@ -2,7 +2,7 @@
 
 <h2 align-text="left">Sobre</h2>
 <p align-text="left">💻 Projeto desenvolvido para o programa one<br/> que
-    consiste em uma API de um fórum de discussão, possibilitando aos usuários criar, vizualizar e deletar tópicos.</p>
+    consiste em uma API de um fórum de discussão,</br> possibilitando aos usuários criar, vizualizar e deletar tópicos.</p>
 
 <h2 align-text="left">Tecnologia e Ferramentas</h2>
 <ul>
